@@ -7,3 +7,6 @@ export interface ticket{
   resolved:boolean;
 
 }
+
+
+export default ticket

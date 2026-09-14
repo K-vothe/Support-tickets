@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "El equipo ya no va",
+        "description": "El equipo de computo ya no funciona",
+        "priority": "high",
+        "resolved": false
+    },
+    {
+        "id": 2,
+        "title":"problema con la impresora ",
+        "description": "la impresora no aparece disponible en la red",
+        "priority": "medium",
+        "resolved": false
+    },
+    {
+        "id":3,
+        "title":"restablecer la contraseña",
+        "description": "El usuario no puede ingresar por que no recuerda la contraseña",
+        "priority": "low",
+        "resolved": true
+    }
+]
